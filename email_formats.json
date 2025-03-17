@@ -1,14 +1,5 @@
 {
     "allianz.fr": {
         "format": "first.last"
-    },
-    "totalenergies.com": {
-        "format": "f.last"
-    },
-    "loreal.fr": {
-        "format": "first.last"
-    },
-    "airfrance.fr": {
-        "format": "first.l"
     }
 }
