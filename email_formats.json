@@ -1,5 +1,8 @@
 {
     "allianz.fr": {
         "format": "first.last"
+    },
+    "laplateforme.io": {
+        "format": "first.last"
     }
 }
